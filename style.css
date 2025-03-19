@@ -1474,3 +1474,47 @@ i.fa-solid.fa-circle {
     padding-right: 0;
     width: 22.67%;
 }
+
+.picture-main-box {
+    border-top: 2px solid gray;
+}
+
+.picture-two-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.picture-left-box {
+    width: 55%;
+}
+
+.picture-right-box {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.picture-four-box-item {
+    width: 45%;
+}
+
+.picture-box-img img {
+    max-width: 100%;
+}
+
+.picture-box-head a,
+.picslider-head a {
+    text-decoration: none;
+    color: black;
+}
+
+.picslider-head h2 {
+    font-size: 30px;
+}
+
+
+.picture-box-head {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
