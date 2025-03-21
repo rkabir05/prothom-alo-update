@@ -1222,6 +1222,11 @@ select#division {
 }
 
 
+.fiture-item-title a {
+    text-decoration: none;
+    color: wheat;
+}
+
 
 .motamot-1st a {
     text-decoration: none;
@@ -1230,7 +1235,7 @@ select#division {
 
 i.fa-solid.fa-circle {
     margin: 4px 10px 0 10px;
-    font-size: 17px;
+    font-size: 13px;
 }
 
 .motamot-main-item {
@@ -1517,4 +1522,20 @@ i.fa-solid.fa-circle {
 .picture-box-head {
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+.videos-cover {
+    background: gray;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.videos-main-box {
+    width: 1200px;
+    margin: auto;
+}
+
+.picslider-head {
+    margin-top: 20px;
 }
