@@ -1539,3 +1539,64 @@ i.fa-solid.fa-circle {
 .picslider-head {
     margin-top: 20px;
 }
+
+.two-box-background {
+    background: skyblue;
+    padding: 25px;
+}
+
+.two-box-main {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 32px;
+}
+
+.tox-box-img {
+    /* height: 100px; */
+    /* overflow: hidden; */
+    position: absolute;
+}
+
+
+.two-box-head-mornning,
+.two-box-head {
+    position: relative;
+}
+
+.two-box-head {
+    background-image: linear-gradient(rgba(255, 255, 255, .005), black);
+    bottom: 0;
+    width: 100%;
+    padding-right: 21px;
+}
+
+
+
+.two-box-head h2 {
+    font-size: 20px;
+}
+
+.two-box-head h3 {
+    padding-left: 25px;
+    padding-bottom: 32px;
+}
+
+
+.two-box-head-mornning h2 {
+    padding-left: 26px;
+    padding-bottom: 6px;
+    padding-top: 65px;
+}
+
+.two-box-head h2 {
+    padding-left: 25px;
+    padding-bottom: 18px;
+}
+
+.two-box-head a,
+.two-box-head-mornning a {
+    color: gold;
+    text-decoration: none;
+}
