@@ -1600,3 +1600,54 @@ i.fa-solid.fa-circle {
     color: gold;
     text-decoration: none;
 }
+
+
+.four-box-main {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.four-box-single-item {
+    width: 23%;
+    border-top: 3px solid gray;
+}
+
+.image-box img {
+    max-width: 100%;
+}
+
+.for-box-title {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.title a {
+    text-decoration: none;
+    color: black;
+}
+
+.single-box-heading a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+.image-box a {
+    text-decoration: none;
+    color: black;
+}
+
+.single-box-heading {
+    margin: 20px 0;
+    border-top: 1px solid gray;
+    padding: 20px 0;
+}
+
+.image-box img {
+    margin-bottom: 11px;
+}
+
+.for-box-title {
+    margin-top: 10px;
+}
